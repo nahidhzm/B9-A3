@@ -1,0 +1,26 @@
+body {
+    font-family: "Manrope", sans-serif;
+    width: 100%;
+}
+
+.text_main {
+    color: rgb(255, 66, 64);
+}
+
+.button {
+    background: rgb(255, 66, 64);
+    color: white;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-weight: 600;
+    transition: all ease-in-out 0.6s;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.dash {
+    border: 1px dashed #817e7ea5;
+}
